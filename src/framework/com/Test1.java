@@ -17,6 +17,8 @@ public class Test1
 	public void annotation()
 	{
 		System.out.println("i will execute first");
+		System.out.println("i will execute first32");
+		System.out.println("i will execute first3");
 	}
  @BeforeMethod
  public void annotation2() 
