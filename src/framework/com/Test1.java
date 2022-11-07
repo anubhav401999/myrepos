@@ -10,6 +10,8 @@ public class Test1
 	public void first()
  {
 	System.out.println("HEllow");
+	System.out.println("HEllow2");
+	System.out.println("HEllow3");
  }
  @BeforeSuite
 	public void annotation()
